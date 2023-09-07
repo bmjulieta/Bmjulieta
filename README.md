@@ -1,5 +1,13 @@
+<img src="C:\Users\Asus\Downloads\LinkedIn (7).png">
+
 ### Hi there 👋
 
+- 🔭 I’m currently working on 2 differente UXUI projects
+- 🌱 I’m currently learning Full-Stack Python Development
+- 👯 I’m looking to collaborate on UXUI or Front-End projects
+- 🤔 I’m looking for help with Java 
+- 💬 Ask me about design
+- 📫 How to reach me: https://www.linkedin.com/in/julietabelenmier/
 <!--
 **bmjulieta/Bmjulieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
