@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on 2 differente UXUI projects
+- 🔭 I’m currently working on 2 differents UXUI projects
 - 🌱 I’m currently learning Full-Stack Python Development
 - 👯 I’m looking to collaborate on UXUI or Front-End projects
 - 🤔 I’m looking for help with Java 
