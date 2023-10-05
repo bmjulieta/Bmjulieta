@@ -1,4 +1,4 @@
-<img src="C:\Users\Asus\Downloads\LinkedIn (7).png">
+<img src="LinkedIn (7).png">
 
 ### Hi there 👋
 
